@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.14">
+  <diagram name="Page-1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">
+    <mxGraphModel dx="2052" dy="862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="f0bcc99304e6f5a-9" style="edgeStyle=none;curved=1;html=1;startSize=10;endArrow=classic;endFill=1;endSize=10;strokeColor=#000000;strokeWidth=2;fontSize=12;" parent="1" source="f0bcc99304e6f5a-1" target="f0bcc99304e6f5a-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-18" value="Approvazione RGP" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=none;fontSize=20;rotation=-25;fontStyle=1;fontColor=#00CC00;" parent="f0bcc99304e6f5a-9" vertex="1" connectable="0">
+          <mxGeometry x="0.2545" y="-5" relative="1" as="geometry">
+            <mxPoint x="-51" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-16" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;" parent="1" source="f0bcc99304e6f5a-1" target="f0bcc99304e6f5a-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-1" value="Inviata al Responabile" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=4;fontSize=30;align=center;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="530" width="220" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-11" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;" parent="1" source="f0bcc99304e6f5a-2" target="f0bcc99304e6f5a-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-24" value="Approvazione Team Change" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1;fontColor=#00CC00;" parent="f0bcc99304e6f5a-11" vertex="1" connectable="0">
+          <mxGeometry x="0.1672" y="-3" relative="1" as="geometry">
+            <mxPoint x="-40" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-2" value="Da Autorizzare" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=1;fontSize=30;align=center;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="470" y="370" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-3" value="Respinta" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=1;fontSize=30;align=center;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="940" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-15" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;" parent="1" source="f0bcc99304e6f5a-4" target="f0bcc99304e6f5a-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-23" value="Fine attività BOT" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1" parent="f0bcc99304e6f5a-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.4143" y="-1" relative="1" as="geometry">
+            <mxPoint x="13" y="49" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-4" value="In Esecuzione" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=1;fontSize=30;align=center;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="900" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-12" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;" parent="1" source="f0bcc99304e6f5a-5" target="f0bcc99304e6f5a-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-25" value="Assegnazione ACN&amp;nbsp;&lt;div&gt;sulla &quot;TORRE&quot;&lt;div&gt;Rilascio Tramite BOT&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;rotation=20;fontStyle=1;fontColor=#00CC00;" parent="f0bcc99304e6f5a-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.0727" y="-5" relative="1" as="geometry">
+            <mxPoint x="30" y="-57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-5" value="Da Assegnare" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=1;fontSize=30;align=center;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="370" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-13" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;" parent="1" source="f0bcc99304e6f5a-7" target="f0bcc99304e6f5a-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-26" value="Inizio attività BOT" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1" parent="f0bcc99304e6f5a-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.2658" y="2" relative="1" as="geometry">
+            <mxPoint x="117" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-7" value="Assegnata" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=1;fontSize=30;align=center;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="1510" y="530" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-8" value="Fine Esecuzione" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=4;fontSize=30;align=center;fillColor=#f5f5f5;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="850" y="1050" width="257" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-28" value="Respinge RGP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;rotation=0;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="150" y="850" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f0bcc99304e6f5a-34" value="G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;labelBackgroundColor=none;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="990" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iRPx59SwMYJtVsjGBk5S-15" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;entryX=1.007;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f0bcc99304e6f5a-2" target="f0bcc99304e6f5a-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="475" as="sourcePoint" />
+            <mxPoint x="1030" y="475" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRPx59SwMYJtVsjGBk5S-16" value="Respinge Team Change" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;absoluteArcSize=0;fontColor=#FF3333;fontStyle=1" parent="iRPx59SwMYJtVsjGBk5S-15" vertex="1" connectable="0">
+          <mxGeometry x="0.1672" y="-3" relative="1" as="geometry">
+            <mxPoint x="127" y="-386" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRPx59SwMYJtVsjGBk5S-19" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="f0bcc99304e6f5a-5" target="f0bcc99304e6f5a-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="570" as="sourcePoint" />
+            <mxPoint x="251" y="1041" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="1060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iRPx59SwMYJtVsjGBk5S-20" value="Respinge ACN" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1;fontColor=#FF3333;" parent="iRPx59SwMYJtVsjGBk5S-19" vertex="1" connectable="0">
+          <mxGeometry x="0.1672" y="-3" relative="1" as="geometry">
+            <mxPoint x="109" y="-78" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
