@@ -35,9 +35,9 @@
         <mxCell id="f0bcc99304e6f5a-15" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;" parent="1" source="f0bcc99304e6f5a-4" target="f0bcc99304e6f5a-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f0bcc99304e6f5a-23" value="Fine attività BOT" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1" parent="f0bcc99304e6f5a-15" vertex="1" connectable="0">
+        <mxCell id="f0bcc99304e6f5a-23" value="Fine attività BOT - SUCCESS" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1" parent="f0bcc99304e6f5a-15" vertex="1" connectable="0">
           <mxGeometry x="-0.4143" y="-1" relative="1" as="geometry">
-            <mxPoint x="13" y="49" as="offset" />
+            <mxPoint x="24" y="81" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f0bcc99304e6f5a-4" value="In Esecuzione" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;strokeColor=#666666;strokeWidth=1;fontSize=30;align=center;fillColor=#f5f5f5;" parent="1" vertex="1">
@@ -100,6 +100,20 @@
         <mxCell id="iRPx59SwMYJtVsjGBk5S-20" value="Respinge ACN" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1;fontColor=#FF3333;" parent="iRPx59SwMYJtVsjGBk5S-19" vertex="1" connectable="0">
           <mxGeometry x="0.1672" y="-3" relative="1" as="geometry">
             <mxPoint x="109" y="-78" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oA1QaRX1Dg6P7HuKte2-1" style="edgeStyle=none;curved=1;html=1;startSize=10;endFill=1;endSize=10;strokeWidth=2;fontSize=12;entryX=0.69;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="f0bcc99304e6f5a-4" target="f0bcc99304e6f5a-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1597" y="708" as="sourcePoint" />
+            <mxPoint x="1542" y="911" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0oA1QaRX1Dg6P7HuKte2-2" value="Fine attività BOT - ERROR" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=20;fontStyle=1" vertex="1" connectable="0" parent="0oA1QaRX1Dg6P7HuKte2-1">
+          <mxGeometry x="-0.2658" y="2" relative="1" as="geometry">
+            <mxPoint x="121" y="-103" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
